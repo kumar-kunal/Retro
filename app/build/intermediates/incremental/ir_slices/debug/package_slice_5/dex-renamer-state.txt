@@ -1,0 +1,4 @@
+#Mon Aug 27 13:55:50 IST 2018
+base.0=/home/linux/Documents/Retro/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
